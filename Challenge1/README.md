@@ -18,8 +18,5 @@ Luego de considerar toda esta información, Camilo decide construir un programa 
 |El programa recibirá 3 parámetros:
  El salario base del empleado.
  La cantidad de horas extras se representa a través de un número entero positivo. En caso de no realizar horas extras durante el mes, se ingresará el valor 0.
-Si hubo bonificaciones se ingresará el valor 1, de lo contrario el valor 0.|
-| El programa debe imprimir 2 valores:
-El valor a pagar al empleado luego de realizar los descuentos de ley. El resultado debe imprimirse con un número decimal.
-El salario total del empleado antes de descuentos. El resultado debe imprimirse con un número decimal. |
+Si hubo bonificaciones se ingresará el valor 1, de lo contrario el valor 0.| 
 
